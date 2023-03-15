@@ -1,5 +1,5 @@
 {
-    Items = [
+    "items" = [
     {
         "id" : "1", 
         "type" : "Sleeping bag liner",
@@ -43,5 +43,5 @@
             {"key" : "temp", "value": -20},
         ]
     }
-
+]
 }

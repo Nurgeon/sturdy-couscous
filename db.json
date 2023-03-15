@@ -21,7 +21,7 @@
         "myog" : false,
         "description" : "This is a not so normal description for a tent by MSR called Hubba NX The reason why this description is a bit extraordinaray is because it is longer than usual for these kinds of items and also contains the longest word in French which is 'Anticonstitutionellement'",
         "image" : "https://www.msrgear.com/on/demandware.static/-/Sites-msr-master-catalog/default/dwbfaf60b8/images/large/13314_msr_eu_hubba_nx_fly_open.jpg",
-        "status" : "danger",
+        "status" : "danger"
 
     }, 
     {
@@ -34,7 +34,7 @@
         "myog" : true,
         "description" : "This is a stove i made out of a pierced can",
         "image" : "",
-        "status" : "",
+        "status" : ""
 
     }
   ]

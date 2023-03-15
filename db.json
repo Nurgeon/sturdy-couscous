@@ -1,0 +1,45 @@
+[
+    {
+        "id" : "1", 
+        "type" : "Sleeping bag liner",
+        "name" : "Arc Blast",
+        "brand" : "Zpacks",
+        "weight" : 560,
+        "size" : "XXL",
+        "myog" : false,
+        "description" : "This is a normal description for a backpack by Zpacks called Arc Blast",
+        "image" : "https://cdn.shopify.com/s/files/1/0004/4652/9572/products/zpacks-arc-blast-ultralight-backpack-azure-blue-front_8bb6a8e3-3aa7-4754-a2f7-1af40e55f7c1_2048x.jpg?v=1618511276"
+    },
+    {
+        "id" : "2", 
+        "type" : "Video / Action cam",
+        "name" : "Hubba NX",
+        "brand" : "MSR",
+        "weight" : 1050, 
+        "size" : "38",
+        "myog" : false,
+        "description" : "This is a not so normal description for a tent by MSR called Hubba NX The reason why this description is a bit extraordinaray is because it is longer than usual for these kinds of items and also contains the longest word in French which is 'Anticonstitutionellement'",
+        "image" : "https://www.msrgear.com/on/demandware.static/-/Sites-msr-master-catalog/default/dwbfaf60b8/images/large/13314_msr_eu_hubba_nx_fly_open.jpg",
+        "status" : "danger",
+        "features" :[
+            {"key" : "temp", "value": -20},
+            {"key" : "temp", "value": -20},
+        ]
+    }, 
+    {
+        "id" : "3", 
+        "type" : "Stove",
+        "name" : "Stove made of cannette",
+        "brand" : "",
+        "weight" : 350, 
+        "size" : "8 3/4",
+        "myog" : true,
+        "description" : "This is a stove i made out of a pierced can",
+        "image" : "",
+        "status" : "",
+        "features" :[
+            {"key" : "temp", "value": -20},
+            {"key" : "temp", "value": -20},
+        ]
+    }
+]
